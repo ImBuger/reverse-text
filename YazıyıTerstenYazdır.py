@@ -1,4 +1,4 @@
-name = input("Your name:")
+name = input(">>>")
 liste = []
 length = len(name)
 i = 0
